@@ -1,4 +1,4 @@
-# Netflix_Data_analysis
+# Netflix Data analysis
 Analysis of Netflix data sets consist of TV series , Movies data which icnldued information related to 
 show_id	type,	title,	director,	cast,	country,	date_added,	release_year,	rating,	duration,	listed_in,	description.
 
