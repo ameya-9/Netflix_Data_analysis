@@ -1,10 +1,12 @@
-# Netflix
+# [Netflix] ![image](https://user-images.githubusercontent.com/19268537/116279077-be0e1080-a7a4-11eb-9016-ad3ae9c55d22.png)
+
 Netflix, Inc. is an American content platform and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. Netflix introduced the monthly subscription concept in September 1999,[34] and then dropped the single-rental model in early 2000. Since that time (see Technical details of Netflix), the company has built its reputation on the business model of flat-fee unlimited rentals without due dates, late fees, shipping and handling fees, or per-title rental fees.[35]
 
 ![image](https://user-images.githubusercontent.com/19268537/116276509-3b845180-a7a2-11eb-9dfc-126095bac98a.png)
 
 
-# DataSet : https://www.kaggle.com/shivamb/netflix-shows
+# DataSet : 
+https://www.kaggle.com/shivamb/netflix-shows
 
 # Data Contains following details : 
   1. show_id 
