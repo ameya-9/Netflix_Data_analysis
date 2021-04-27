@@ -4,7 +4,7 @@ Netflix, Inc. is an American content platform and production company headquarter
 ![image](https://user-images.githubusercontent.com/19268537/116276509-3b845180-a7a2-11eb-9dfc-126095bac98a.png)
 
 
-##Netflix EDA
+## Netflix EDA
 
 Analysis of Netflix data sets consist of TV series , Movies data which includes information related to 
 show_id	type,	title,	director,	cast,	country,	date_added,	release_year,	rating,	duration,	listed_in,	description.
@@ -17,3 +17,5 @@ Performed an Exploratory Data Analysis of the Data Set to Answer few of the foll
 4. Similary What is the size of the Tv series (in Seasons) ? How do they vary?
 5. Top 20 Countries on Netflix ( in Terms of Number of TV series and Movies)
 6. Which genres have the highest number of TV series and Movies respectively?
+
+Checkout the Notebook to find answers to the above questions
