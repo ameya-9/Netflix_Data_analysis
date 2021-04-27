@@ -4,6 +4,20 @@ Netflix, Inc. is an American content platform and production company headquarter
 ![image](https://user-images.githubusercontent.com/19268537/116276509-3b845180-a7a2-11eb-9dfc-126095bac98a.png)
 
 
+# DataSet : https://www.kaggle.com/shivamb/netflix-shows
+
+# Data Contains following details : 
+  1. show_id 
+  2. type : Movies or Tv Series
+  3. title
+  4. director
+  5. cast : actors involved
+  6. country: country where the movies/show was produced
+  7. date_added : Date it was added on Netflix
+  8. release_year : Actualy year of release of the show/movie ( oldest 1925)
+  9. rating : TV Rating of the movie / show (TV-MA, TV-14, TV-PG, R, PG-13)
+  10. duration : number of seasons ( for tv series ) / in minutes for ( movies) 
+
 ## Netflix EDA
 
 Analysis of Netflix data sets consist of TV series , Movies data which includes information related to 
